@@ -5,7 +5,7 @@ in cassandra , create and load tables that are optimized for some read queries.
 
 ## Contents
 
-1. Project_1B_ Project_Template.ipynb
+1. etl.ipynb
     * Jupyter notebook file used to create the tables and load with data.
 2. event_data
     * folder containing all the data files.
@@ -59,7 +59,7 @@ Once Cassandra is installed  run below commands to start cassandra.
     ```
     jupyter notebook
     ```
-5. Open Project_1B_ Project_Template.ipynb and run the commands one after the other.
+5. Open etl.ipynb and run the commands one after the other.
 
 ## Functionality
 
